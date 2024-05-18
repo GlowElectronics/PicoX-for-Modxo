@@ -1,4 +1,4 @@
-# PicoX-for-Modxo
+# PicoX
 PicoX is an interface between the Pi Pico and the original Xbox LPC header
 
 Designed specifically for the Modxo (Modsho) project from shalxmva (https://github.com/shalxmva/modxo)
