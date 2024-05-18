@@ -1,0 +1,12 @@
+Partlist
+
+Part     Value             Package      Library  Position (mm)         Orientation
+
+1.0-1.5  TPTP16SQ          TP16SQ       testpad  (3.81 26.035)         R0
+1.6                        SJ           jumper   (3.81 2.54)           R180
+R1       100R              R0805        rcl      (17.145 20.32)        MR180
+R2       100R              R0805        rcl      (17.145 17.78)        MR180
+R3       100R              R0805        rcl      (17.145 15.24)        MR180
+R4       100R              R0805        rcl      (17.145 12.7)         MR180
+U1       RASPBERRY_PICOSMD PICO-PKG-SMD RpiPico  (34.925 13.97)        R270
+XLPC                       2X06         pinhead  (3.81 13.97)          R90
